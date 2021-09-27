@@ -1,0 +1,37 @@
+.header{
+    background-image: url(source/Pozole-fondo.png);
+    width: auto;
+    height: 50rem ;
+    color: white;
+    font-size: 2rem;
+}
+
+.menu{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.menu img{
+    width: 8%;
+    height: 8%;
+}
+
+.tarjetero td {
+    background-color: orange;
+
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+#Ger{
+    align-items: center;
+    text-align: center;
+    border:2px solid orange;
+    margin:10rem;
+
+}
